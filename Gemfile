@@ -1,4 +1,5 @@
 # 中略
+gem 'devise'
 gem 'pry-rails'
 
 source 'https://rubygems.org'
